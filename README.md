@@ -87,6 +87,7 @@ El ecosistema se compone de 5 repositorios gestionados bajo esta política:
 5.  **Docs (MkDocs):** Documentación de procedimientos internos.
 
 ![Captura de pantalla de Gitea](assets/repositorios.png)
+
 *(Vista del panel de control de repositorios en el servidor interno)*
 
 ---
@@ -199,6 +200,7 @@ The ecosystem consists of 5 repositories managed under this policy:
 5.  **Docs (MkDocs):** Internal procedures documentation.
 
 ![Gitea Screenshot](assets/repositorios.png)
+
 *(View of the repository control panel on the internal server)*
 
 ---
